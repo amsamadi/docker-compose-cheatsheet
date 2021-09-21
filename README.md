@@ -102,7 +102,7 @@ Syntax:
 
 Syntax:
 
-    docker-compose logs [SERVICE]
+    docker-compose logs [options] [SERVICE]
 
     
         
