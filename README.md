@@ -88,7 +88,7 @@ Syntax:
 
 * Instead of attempting to create a network called [projectname]_default, Compose looks for a network called my-network and connect your app’s containers to it
 ---
-### 5- How to scale an aplication?
+### 5- How to scale an application?
 * To do this, we must use a load balancer to divide the load between different instances of the application, and also in the compose-file , a port should not be published and the container_name should not be set. 
 
 * for this we use a following command:
