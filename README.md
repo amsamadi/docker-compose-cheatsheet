@@ -103,8 +103,6 @@ Syntax:
 Syntax:
 
     docker-compose logs [options] [SERVICE]
-    
-###### [@dwsclass](https://github.com/dwsclass)dws-ops-008-compose
 
     
         
